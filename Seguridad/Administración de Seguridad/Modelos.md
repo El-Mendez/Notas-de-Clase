@@ -1,0 +1,1 @@
+Son guías que mencionan qué hacer pero no cómo. Muy similar a los [[Estándares |estándares]], pero mucho menos detallados. Al ser menos detallados, se necesita de más experiencia para implementarlos y son más flexibles.

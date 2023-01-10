@@ -1,0 +1,1 @@
+Asegura la información almacenada en un medio digital. Es parte de la seguridad de la información. Solo se enfoca en el *software*, no el *hardware*.

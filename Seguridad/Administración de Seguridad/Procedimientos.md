@@ -1,0 +1,1 @@
+Los procedimientos y procesos son lo mismo. Es lo que se hace. Un diagrama de flujo no es un diagrama de procesos.
